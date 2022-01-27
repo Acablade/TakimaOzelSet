@@ -1,0 +1,10 @@
+name: TakimaOzelSet
+version: '${project.version}'
+main: me.acablade.takimaozelset.TakimaOzelSetPlugin
+api-version: 1.13
+authors: [ Acablade ]
+description: Takıma özel set
+website: github.com/Acablade
+depend: [ProtocolLib]
+commands:
+  team:
